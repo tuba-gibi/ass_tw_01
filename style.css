@@ -68,7 +68,8 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 7px;
     transition: 1s;
     float: right;
-    /* margin: 250px 30px 0 0; */
+    margin-right: 2em;
+    margin-bottom: 1em;
    
    
 }
